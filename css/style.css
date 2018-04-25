@@ -1,0 +1,246 @@
+
+.navbar{
+	box-shadow: 2px 2px 5px rgb(149, 158, 134);
+	opacity: 0.6;
+	background: #ffffff;
+/*	 position: fixed;
+    top: 0; 
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;*/
+}
+.nav-item{
+	font-size: 1.2rem;
+	padding-right: 20px;
+}
+
+
+#showcase{
+	position:relative;
+	background-image: url('../img/pexels-photo-355482.jpeg');
+	min-height: 600px;
+	  height: 100%; 
+	  margin-top: 94px;
+
+	  /*opacity: 0.9;*/
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+	
+
+}
+
+.primary-overlay{
+
+	background-color: rgba(149,158,134,0.2);
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;	
+	padding-top: 100px;
+}
+
+.card-block{
+	padding: 20px;
+}
+#ab{
+	width:300px;
+	background-color:rgb(149, 158, 134);
+	margin-left: 13px;
+}
+
+#sexy-color{
+	background-color: rgb(149, 158, 134);
+}
+
+#sexy-color2{
+	color: rgb(149, 158, 134);
+}
+
+.nav-item{
+	font-size: 1.2rem;
+	padding-right: 20px;
+}
+
+
+.info-header{
+	width: 50%;
+	margin: auto;
+	border-bottom: 1px #DDD solid;
+}
+
+.my-5 py-5 text-center hey{
+	margin: 0%;
+	
+}
+#authors .fa{
+	font-size: 25px;
+	color: #fff;
+
+}
+.lead{
+	text-align: justify;
+	font-size: 18px;
+}
+.text-muted{
+	font-size: 16px;
+}
+
+#authors .card:hover{
+	background:rgb(149, 158, 134);
+	color: #fff;
+}
+
+#main-footer{
+	height: 300px;
+}
+
+#main-footer a{
+	color:white;
+}
+
+.hey{
+	background-color: #f2f2f2;
+}
+
+/*.text-center{
+	padding-top: 30px;
+}*/
+
+.k{
+	padding-bottom: 90px;
+	padding-top: 70px;
+}
+
+.hvr:hover{
+	background-color: #fff;
+}
+.foot{
+	padding: 0%;
+	margin: 0%;
+	width: 100%;
+	text-align:center;
+}
+#contact{
+	margin: 100px;
+}
+.more{
+	text-align: center;
+}
+.booklist{
+	margin-top: 120px;
+}
+
+
+/*marquiz*/
+.text_introduction h3{
+	text-align: left;
+	font-size: 30px;
+	font-weight: bold;
+	color: #556655;
+}
+.pic_card{
+	width: 300px;
+}
+.booklist{
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+}
+.content_book{
+	height: 1350px;
+	border-style: solid;
+	border-radius: 8px;
+	border-width: 1px;
+	border-color: #b5b5b5;
+	position: relative;
+	padding-left: 8%;
+	padding-top: 4%;
+	margin-top: 9%;
+
+	margin-bottom: 5%;
+	padding-bottom: 4%;
+}
+.text_introduction{
+	float: left;
+	position: relative;
+	left: 35%;
+	bottom: 430px;
+}
+
+.text_introduction h5{
+	font-weight: 600;
+	color: rgba(149, 158, 134,0.9);
+	margin-top: 20px;
+	margin-bottom: 15px;
+	font-size: 18px;
+}
+.text_detail{
+	width: 55%;
+}
+.his_books h5{
+	font-size: 18px;
+	font-weight: 600;
+	color: rgba(149, 158, 134,0.9);
+	margin-bottom: 20px;
+	position: relative;
+	bottom: 380px;
+}
+
+.main-wrapper{
+	position: relative;
+	bottom: 400px;
+}
+.card-main{
+	width: 200px;
+}
+
+.item-card{
+    float: left;
+    margin-right: 48px;
+    width: 200px;
+    margin-top: 27px;
+    background: white;
+    display: flex; 
+    flex-direction: column; 
+    min-height: 100%;  
+}
+.card-text-wrap{
+    padding: 13px;
+    margin-left: 7px;
+}
+.card-text-box h2{
+    text-align: center;
+    font-size: 16px;
+	font-weight:border;
+	color: #565656;
+}
+.foot2{
+	position: relative;
+	left: 110px;
+}
+.catalog{
+	width: 90%;
+	position: relative;
+	bottom: 400px;
+}
+.catalog h5{
+	font-size: 18px;
+	font-weight: 600;
+	color: rgba(149, 158, 134,0.9);
+	margin-top: 40px;
+}
+.catalog h6{
+	margin-top: 30px;
+	font-size: 16px;
+	font-weight: bolder;
+	color: #565656;
+}
+.comment_text p{
+	margin-top: 15px;
+}
